@@ -7,3 +7,7 @@
 
 # Verify Installation
 Open a terminal and activate the environment (step 4). Run `$ python` and then try to import keras `>>> import keras`. You should see the message "Using TensorFlow backend."
+
+# Examples
+Dogs vs. Cats: `$ python examples/dogs_v_cats.py --dataset [training_data_path]`
+- https://www.kaggle.com/c/dogs-vs-cats/data
