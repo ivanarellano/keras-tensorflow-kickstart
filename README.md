@@ -6,4 +6,4 @@
 5. Run `$ pip install -r requirements.txt`
 
 # Verify Installation
-Run `$python` and then import keras `>>> import keras`. You should see the message "Using TensorFlow backend."
+Open a terminal and run `$ python`. Then try to import keras `>>> import keras`. You should see the message "Using TensorFlow backend."
