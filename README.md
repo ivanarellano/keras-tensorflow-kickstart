@@ -10,4 +10,5 @@ Open a terminal and activate the environment (step 4). Run `$ python` and then t
 
 # Examples
 Dogs vs. Cats: `$ python examples/dogs_v_cats.py --dataset [training_data_path]`
+- Tutorial from: http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/
 - https://www.kaggle.com/c/dogs-vs-cats/data
